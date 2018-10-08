@@ -1,0 +1,26 @@
+{
+  "name": "cli-sizes",
+  "version": "1.0.0",
+  "description": "A node package to find the terminal size with one dead simple fallback option",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "terminal-size",
+    "size",
+    "terminal",
+    "getWindowSize",
+    "node",
+    "iTerm",
+    "cli",
+    "sizes",
+    "window",
+    "resize"
+  ]
+}
